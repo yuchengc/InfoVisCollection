@@ -1,0 +1,11 @@
+.bar-u{
+	fill: #33CCCC;
+}
+.bar-t{
+	fill: #999999;
+}
+.dot{
+	fill:#FF6600;
+	stroke:  black;
+	stroke-width: 2;
+}
